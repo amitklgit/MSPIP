@@ -1,6 +1,5 @@
 Prefix,Type
-4.128.0.0/12, MSFT Public IP Address Block
-4.144.0.0/12, MSFT Public IP Address Block
+
 4.160.0.0/12, MSFT Public IP Address Block
 4.176.0.0/12, MSFT Public IP Address Block
 4.192.0.0/12, MSFT Public IP Address Block
